@@ -1,5 +1,5 @@
-<center><h2>Introduction to Logistic Regression</h2></center>
-<center><h2>By Brian Spiering</h2></center>
+Introduction to Logistic Regression by Brian Spiering
+------
 
 A brief introduction to logistic regression.
 
